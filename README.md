@@ -17,8 +17,8 @@ Follow these steps to run the application locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Nithya-123-vsb/GreenGuide.git
-cd GreenGuide
+git clone https://github.com/Nithya-123-vsb/CROP-RECOMMENDATION-SOFTWARE.git
+cd CROP-RECOMMENDATION-SOFTWARE
 ```
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
