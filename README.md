@@ -1,6 +1,6 @@
 # 🌱 GreenGuide: Crop Recommendation System
 
-GreenGuide is a machine learning-based web application that recommends the most suitable crop to plant based on soil composition and environmental factors. It uses a **Decision Tree Classifier** model trained on agricultural data to provide predictions.
+GreenGuide is a machine learning-based web application that recommends the most suitable crop to plant based on soil composition and environmental factors. It uses a **Decision Tree Classifier** model trained on agricultural data to provide predictions.It predicts the crop more approximately.
 
 ## 🚀 Features
 
